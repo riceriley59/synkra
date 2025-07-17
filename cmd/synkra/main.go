@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/riceriley59/cmd/synkra/cmd"
+	"github.com/riceriley59/synkra/cmd/synkra/cmd"
 )
 
 func main() {
